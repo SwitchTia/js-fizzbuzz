@@ -13,7 +13,24 @@
 // scriviamo sempre prima dei commenti in italiano per capire cosa vogliamo fare
 // proviamo ad immaginare le operazioni che vogliamo far svolgere al nostro programma così come lo faremmo "a mano"
 
-//logic
+
+
+//Pseudo code/logic:
+
+//while doing an iteration with "for" cycle through the numebrs from 1 to 100,
+
+//if            you find numebrs that divide perfectly to 3 and 5
+//          then print FizzBuzz
+
+//else if       you find numebrs that divide perfectly to 3  
+//          then print Fizz 
+
+//else if       you find numebrs that divide perfectly to 5
+//          then print Buzz
+
+//else      in any other case, just print the number
+
+
 
 //***RUN PROGRAM***/
 
