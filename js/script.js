@@ -19,13 +19,13 @@
 
 //while doing an iteration with "for" cycle through the numebrs from 1 to 100,
 
-//if            you find numebrs that divide perfectly to 3 and 5
+//if            you find numbers that divide perfectly to 3 and 5
 //          then print FizzBuzz
 
-//else if       you find numebrs that divide perfectly to 3  
+//else if       you find numbers that divide perfectly to 3  
 //          then print Fizz 
 
-//else if       you find numebrs that divide perfectly to 5
+//else if       you find numbers that divide perfectly to 5
 //          then print Buzz
 
 //else      in any other case, just print the number
@@ -34,7 +34,7 @@
 
 //***RUN PROGRAM***/
 
-for(i = 0; i <=100; i++){
+for(let i = 1; i <= 100; i++){
     if( i % 3 === 0 && i % 5 === 0){
         console.log("FizzBuzz");
     }
